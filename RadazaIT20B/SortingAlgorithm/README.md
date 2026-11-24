@@ -1,4 +1,4 @@
- Sorting Algorithms Activity
+# Sorting Algorithms Activity
  
 - Program Description
 
@@ -13,14 +13,15 @@ Ang Selection Sort kay mangita una sa pinakagamay nga number sa part sa array ng
 - Insertion Sort
 Ang Insertion Sort kay magsugod sa second number, then i-compare niya sa mga numbers nga naa sa iyang left side. If naay mas dagko nga numbers, i-move niya sila para makabutang ang current number sa sakto nga position. Murag nag-arrange ra kag numbers nga naa sa imong kamot.
 
-- Differences Between the Algorithms
+# Differences Between the Algorithms
   
 - Bubble Sort: Mag-focus sa pag-compare sa magtapad nga numbers and mag-swap kung kinahanglan.
 - Selection Sort: Mangita una sa smallest number before ibutang sa correct position.
 - Insertion Sort: Kuhaon ang usa ka number and i-insert sa sakto nga position.
 Although lahi-lahi ilang process, same ra gihapon ilang goal which is i-arrange ang numbers from smallest to largest.
 
-Reflection Questions
+# Reflection Questions
+
 1. How does each sorting algorithm arrange numbers? What makes their processes different?
 
 Ang Bubble Sort kay mag-compare sa magtapad nga numbers and mag-swap kung dili sakto ang ilang order. Ang Selection Sort kay mangita sa smallest number and ibutang sa unahan sa unsorted part. Tapos ang Insertion Sort kay magkuha og number and ibutang sa correct position based sa mga numbers nga na-sort na. Lahi ilang ways of sorting, pero same ra ilang goal.
